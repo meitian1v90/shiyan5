@@ -70,8 +70,7 @@ try {
             }
 ```
 ### 七、实验结果
-![](https://github.com/wccc33/shiyan5/blob/main/1.png)
-![](https://github.com/wccc33/shiyan5/blob/main/2.png)
+![](shiyan5.png)
 ### 八、实验感想
 ##### 1.通过这次实验我学会了如何读取文本文件和在文件中写入东西并存进一个新文件
 ##### 2.我了解了replace和replaceall的基本区别和使用replace方法将字符串替换为空的方法
